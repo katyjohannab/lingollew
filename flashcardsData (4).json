@@ -1,0 +1,1561 @@
+{
+    "unit1_vocab": [
+        {
+            "welsh": "bore da",
+            "english": "good morning"
+        },
+        {
+            "welsh": "nos da",
+            "english": "good night"
+        },
+        {
+            "welsh": "croeso'n ôl",
+            "english": "welcome back"
+        },
+        {
+            "welsh": "diolch",
+            "english": "thank you"
+        },
+        {
+            "welsh": "sut wyt ti?",
+            "english": "how are you?"
+        },
+        {
+            "welsh": "dw i'n iawn",
+            "english": "I'm fine"
+        },
+        {
+            "welsh": "archfarchnad",
+            "english": "supermarket"
+        },
+        {
+            "welsh": "meithrinfa",
+            "english": "crèche"
+        },
+        {
+            "welsh": "sedd",
+            "english": "seat"
+        },
+        {
+            "welsh": "yn aml",
+            "english": "often"
+        },
+        {
+            "welsh": "gweld eisiau",
+            "english": "to miss"
+        },
+        {
+            "welsh": "mwy nag unwaith",
+            "english": "more than once"
+        },
+        {
+            "welsh": "pam lai?",
+            "english": "why not?"
+        },
+        {
+            "welsh": "Rhaid cropian cyn cerdded",
+            "english": "You must walk before you can run"
+        },
+        {
+            "welsh": "cefn gwlad",
+            "english": "the countryside"
+        },
+        {
+            "welsh": "diwedd",
+            "english": "end"
+        },
+        {
+            "welsh": "colli",
+            "english": "to lose, to miss"
+        },
+        {
+            "welsh": "cropian",
+            "english": "to crawl"
+        },
+        {
+            "welsh": "gwarchod",
+            "english": "to protect, to babysit"
+        },
+        {
+            "welsh": "cyfleus",
+            "english": "convenient"
+        }
+    ],
+    "unit1_phrases": [
+        {
+            "welsh": "Prynais i",
+            "english": "I bought"
+        },
+        {
+            "welsh": "Prynaist ti",
+            "english": "You (singular) bought"
+        },
+        {
+            "welsh": "Prynodd e/hi",
+            "english": "He/She bought"
+        },
+        {
+            "welsh": "Prynon ni",
+            "english": "We bought"
+        },
+        {
+            "welsh": "Prynoch chi",
+            "english": "You (plural) bought"
+        },
+        {
+            "welsh": "Prynon nhw",
+            "english": "They bought"
+        },
+        {
+            "welsh": "Es i",
+            "english": "I went"
+        },
+        {
+            "welsh": "Est ti",
+            "english": "You (singular) went"
+        },
+        {
+            "welsh": "Aeth e/hi",
+            "english": "He/She went"
+        },
+        {
+            "welsh": "Aethon ni",
+            "english": "We went"
+        },
+        {
+            "welsh": "Aethoch chi",
+            "english": "You (plural) went"
+        },
+        {
+            "welsh": "Aethon nhw",
+            "english": "They went"
+        },
+        {
+            "welsh": "Gwnes i",
+            "english": "I did"
+        },
+        {
+            "welsh": "Gwnest ti",
+            "english": "You (singular) did"
+        },
+        {
+            "welsh": "Gwnaeth e/hi",
+            "english": "He/She did"
+        },
+        {
+            "welsh": "Gwnaethon ni",
+            "english": "We did"
+        },
+        {
+            "welsh": "Gwnaethoch chi",
+            "english": "You (plural) did"
+        },
+        {
+            "welsh": "Gwnaethon nhw",
+            "english": "They did"
+        },
+        {
+            "welsh": "Ces i",
+            "english": "I had"
+        },
+        {
+            "welsh": "Cest ti",
+            "english": "You (singular) had"
+        },
+        {
+            "welsh": "Cafodd e/hi",
+            "english": "He/She had"
+        },
+        {
+            "welsh": "Cawson ni",
+            "english": "We had"
+        },
+        {
+            "welsh": "Cawsoch chi",
+            "english": "You (plural) had"
+        },
+        {
+            "welsh": "Cawson nhw",
+            "english": "They had"
+        }
+    ],
+    "unit1_sentences": [
+        {
+            "welsh": "Beth wnest ti ddoe?",
+            "english": "What did you do yesterday?"
+        },
+        {
+            "welsh": "Pryd codoch chi heddiw?",
+            "english": "When did you get up today?"
+        },
+        {
+            "welsh": "Sut daethoch chi i'r dosbarth heddiw?",
+            "english": "How did you come to class today?"
+        },
+        {
+            "welsh": "Ble est ti?",
+            "english": "Where did you go?"
+        },
+        {
+            "welsh": "Pryd est ti?",
+            "english": "When did you go?"
+        },
+        {
+            "welsh": "Ble arhosaist ti?",
+            "english": "Where did you stay?"
+        },
+        {
+            "welsh": "Beth fwytaist ti?",
+            "english": "What did you eat?"
+        },
+        {
+            "welsh": "Beth yfaist ti?",
+            "english": "What did you drink?"
+        },
+        {
+            "welsh": "Beth brynaist ti?",
+            "english": "What did you buy?"
+        },
+        {
+            "welsh": "Godaist ti’n gynnar ddoe?",
+            "english": "Did you get up early yesterday?"
+        },
+        {
+            "welsh": "Brynaist ti rywbeth ddoe?",
+            "english": "Did you buy something yesterday?"
+        },
+        {
+            "welsh": "Yfaist ti goffi ddoe?",
+            "english": "Did you drink coffee yesterday?"
+        },
+        {
+            "welsh": "Fwytaist ti ffrwythau ddoe?",
+            "english": "Did you eat fruit yesterday?"
+        },
+        {
+            "welsh": "Edrychaist ti ar y teledu ddoe?",
+            "english": "Did you watch TV yesterday?"
+        },
+        {
+            "welsh": "Wrandaist ti ar y radio ddoe?",
+            "english": "Did you listen to the radio yesterday?"
+        },
+        {
+            "welsh": "Yrraist ti ddoe?",
+            "english": "Did you drive yesterday?"
+        },
+        {
+            "welsh": "Ffoniaist ti rywun ddoe?",
+            "english": "Did you phone someone yesterday?"
+        },
+        {
+            "welsh": "Welaist ti ffrind ddoe?",
+            "english": "Did you see a friend yesterday?"
+        },
+        {
+            "welsh": "Gest ti ebost ddoe?",
+            "english": "Did you get an email yesterday?"
+        },
+        {
+            "welsh": "Gest ti bost ddoe?",
+            "english": "Did you get post yesterday?"
+        },
+        {
+            "welsh": "Ddarllenaist ti bapur newydd ddoe?",
+            "english": "Did you read a newspaper yesterday?"
+        },
+        {
+            "welsh": "Est ti ma’s neithiwr?",
+            "english": "Did you go out last night?"
+        },
+        {
+            "welsh": "Est ti am dro ddoe?",
+            "english": "Did you go for a walk yesterday?"
+        },
+        {
+            "welsh": "Siaradaist ti Gymraeg ddoe?",
+            "english": "Did you speak Welsh yesterday?"
+        },
+        {
+            "welsh": "Welaist ti’r cymdogion ddoe?",
+            "english": "Did you see the neighbors yesterday?"
+        },
+        {
+            "welsh": "Est ti i’r sinema y mis diwetha?",
+            "english": "Did you go to the cinema last month?"
+        },
+        {
+            "welsh": "Est ti i’r gampfa y mis diwetha?",
+            "english": "Did you go to the gym last month?"
+        }
+    ],
+    "unit2_vocab": [
+        {
+            "welsh": "camp(au)",
+            "english": "feat(s)"
+        },
+        {
+            "welsh": "Ffrangeg",
+            "english": "French (language)"
+        },
+        {
+            "welsh": "Eidaleg",
+            "english": "Italian (language)"
+        },
+        {
+            "welsh": "naid",
+            "english": "a jump"
+        },
+        {
+            "welsh": "pêl fasged",
+            "english": "basketball"
+        },
+        {
+            "welsh": "pêl-rwyd",
+            "english": "netball"
+        },
+        {
+            "welsh": "sboncen",
+            "english": "squash"
+        },
+        {
+            "welsh": "ar ben",
+            "english": "on top of"
+        },
+        {
+            "welsh": "chwarae teg",
+            "english": "fair play"
+        },
+        {
+            "welsh": "eleni",
+            "english": "this year"
+        },
+        {
+            "welsh": "holl",
+            "english": "all"
+        },
+        {
+            "welsh": "hyfforddwr(-wyr)",
+            "english": "trainer(s)"
+        },
+        {
+            "welsh": "ymarfer corff",
+            "english": "physical education"
+        },
+        {
+            "welsh": "hyfforddi",
+            "english": "to train"
+        },
+        {
+            "welsh": "byw",
+            "english": "live, alive"
+        },
+        {
+            "welsh": "rhywun",
+            "english": "someone"
+        },
+        {
+            "welsh": "sy",
+            "english": "who is, which is"
+        },
+        {
+            "welsh": "heno",
+            "english": "tonight"
+        },
+        {
+            "welsh": "nabod",
+            "english": "to know (someone)"
+        },
+        {
+            "welsh": "faint",
+            "english": "how many"
+        },
+        {
+            "welsh": "wedi gwneud",
+            "english": "has done"
+        }
+    ],
+    "unit2_phrases": [
+        {
+            "welsh": "Dw i’n nabod",
+            "english": "I know"
+        },
+        {
+            "welsh": "Dw i ddim yn nabod neb",
+            "english": "I don’t know anyone"
+        },
+        {
+            "welsh": "sy’n byw yn",
+            "english": "who lives in"
+        },
+        {
+            "welsh": "sy’n gweithio mewn",
+            "english": "who works in"
+        },
+        {
+            "welsh": "sy’n siarad",
+            "english": "who speaks"
+        },
+        {
+            "welsh": "sy’n gyrru",
+            "english": "who drives"
+        },
+        {
+            "welsh": "Wyt ti’n nabod rhywun sy wedi bod",
+            "english": "Do you know anyone who has been"
+        },
+        {
+            "welsh": "Wyt ti’n nabod rhywun sy wedi gwneud",
+            "english": "Do you know anyone who has done"
+        },
+        {
+            "welsh": "Beth sy ar y teledu",
+            "english": "What’s on television"
+        },
+        {
+            "welsh": "Beth sy i ginio",
+            "english": "What is for dinner"
+        },
+        {
+            "welsh": "Pwy sy ar y ffôn",
+            "english": "Who’s on the phone"
+        },
+        {
+            "welsh": "Faint sy yn y dosbarth",
+            "english": "How many are in the class"
+        },
+        {
+            "welsh": "Faint o lyfrau Cymraeg sy gyda chi",
+            "english": "How many Welsh books do you have"
+        },
+        {
+            "welsh": "Faint o ystafelloedd gwely sy gyda chi",
+            "english": "How many bedrooms do you have"
+        },
+        {
+            "welsh": "Faint o amser sy gyda chi",
+            "english": "How much time have you got"
+        },
+        {
+            "welsh": "Faint o waith sy gyda chi",
+            "english": "How much work have you got"
+        },
+        {
+            "welsh": "gyrru car coch",
+            "english": "driving a red car"
+        },
+        {
+            "welsh": "gweithio mewn swyddfa",
+            "english": "working in an office"
+        },
+        {
+            "welsh": "brysur dydd Sul",
+            "english": "busy next Sunday"
+        },
+        {
+            "welsh": "dod i’r dosbarth nesa",
+            "english": "coming to the next class"
+        },
+        {
+            "welsh": "siarad Ffrangeg",
+            "english": "speaking French"
+        },
+        {
+            "welsh": "canu’r piano",
+            "english": "playing the piano"
+        },
+        {
+            "welsh": "hoffi garddio",
+            "english": "liking gardening"
+        }
+    ],
+    "unit2_sentences": [
+        {
+            "welsh": "Dw i’n nabod rhywun sy’n byw yn Awstralia",
+            "english": "I know someone who lives in Australia"
+        },
+        {
+            "welsh": "Dw i’n nabod rhywun sy’n gweithio mewn ysbyty",
+            "english": "I know someone who works in a hospital"
+        },
+        {
+            "welsh": "Dw i’n nabod rhywun sy’n siarad Eidaleg",
+            "english": "I know someone who speaks Italian"
+        },
+        {
+            "welsh": "Dw i’n nabod rhywun sy’n gyrru mini",
+            "english": "I know someone who drives a mini"
+        },
+        {
+            "welsh": "Dw i ddim yn nabod neb sy’n byw yn Ffrainc",
+            "english": "I don’t know anyone who lives in France"
+        },
+        {
+            "welsh": "Dw i ddim yn nabod neb sy’n gweithio mewn garej",
+            "english": "I don’t know anyone who works in a garage"
+        },
+        {
+            "welsh": "Dw i ddim yn nabod neb sy’n siarad Almaeneg",
+            "english": "I don’t know anyone who speaks German"
+        },
+        {
+            "welsh": "Dw i ddim yn nabod neb sy’n gyrru Ferrari",
+            "english": "I don’t know anyone who drives a Ferrari"
+        },
+        {
+            "welsh": "Wyt ti’n nabod rhywun sy wedi bod i’r gemau Olympaidd?",
+            "english": "Do you know anyone who has been to the Olympic Games?"
+        },
+        {
+            "welsh": "Wyt ti’n nabod rhywun sy wedi bod yn Wimbledon?",
+            "english": "Do you know anyone who has been in Wimbledon?"
+        },
+        {
+            "welsh": "Wyt ti’n nabod rhywun sy wedi gwneud naid bynji?",
+            "english": "Do you know anyone who has done a bungee jump?"
+        },
+        {
+            "welsh": "Wyt ti’n nabod rhywun sy wedi dringo Ben Nevis?",
+            "english": "Do you know anyone who has climbed Ben Nevis?"
+        },
+        {
+            "welsh": "Beth sy ar y teledu heno?",
+            "english": "What’s on television tonight?"
+        },
+        {
+            "welsh": "Beth sy i ginio fory?",
+            "english": "What is for dinner tomorrow?"
+        },
+        {
+            "welsh": "Pwy sy ar y ffôn?",
+            "english": "Who’s on the phone?"
+        },
+        {
+            "welsh": "Faint sy yn y dosbarth?",
+            "english": "How many are in the class?"
+        },
+        {
+            "welsh": "Faint o lyfrau Cymraeg sy gyda chi?",
+            "english": "How many Welsh books do you have?"
+        },
+        {
+            "welsh": "Faint o ystafelloedd gwely sy gyda chi?",
+            "english": "How many bedrooms do you have?"
+        },
+        {
+            "welsh": "Faint o amser sy gyda chi?",
+            "english": "How much time have you got?"
+        },
+        {
+            "welsh": "Faint o waith sy gyda chi?",
+            "english": "How much work have you got?"
+        },
+        {
+            "welsh": "Dw i’n nabod rhywun sy’n chwarae golff",
+            "english": "I know someone who plays golf"
+        },
+        {
+            "welsh": "Dw i’n nabod rhywun oedd yn chwarae golff",
+            "english": "I know someone who used to play golf"
+        },
+        {
+            "welsh": "Dw i’n nabod rhywun fydd yn chwarae golff dydd Sul",
+            "english": "I know someone who will be playing golf on Sunday"
+        }
+    ],
+    "unit3_vocab": [
+        {
+            "welsh": "popty",
+            "english": "oven"
+        },
+        {
+            "welsh": "malwoden",
+            "english": "snail"
+        },
+        {
+            "welsh": "malwod",
+            "english": "snails"
+        },
+        {
+            "welsh": "milltir(oedd)",
+            "english": "mile(s)"
+        },
+        {
+            "welsh": "oergell",
+            "english": "fridge"
+        },
+        {
+            "welsh": "olwyn(ion)",
+            "english": "wheel(s)"
+        },
+        {
+            "welsh": "priodas(au)",
+            "english": "wedding(s)"
+        },
+        {
+            "welsh": "rhewgell",
+            "english": "freezer"
+        },
+        {
+            "welsh": "Yr Eidal",
+            "english": "Italy"
+        },
+        {
+            "welsh": "dramor",
+            "english": "abroad"
+        },
+        {
+            "welsh": "tybed?",
+            "english": "I wonder?"
+        },
+        {
+            "welsh": "cinio rhost",
+            "english": "roast dinner"
+        },
+        {
+            "welsh": "crys(au)",
+            "english": "shirt(s)"
+        },
+        {
+            "welsh": "plwg (plygiau)",
+            "english": "plug(s)"
+        },
+        {
+            "welsh": "chwilio (am)",
+            "english": "to look (for)"
+        },
+        {
+            "welsh": "newid",
+            "english": "to change"
+        },
+        {
+            "welsh": "ymarfer",
+            "english": "to practise"
+        },
+        {
+            "welsh": "diolchgar",
+            "english": "grateful"
+        }
+    ],
+    "unit3_phrases": [
+        {
+            "welsh": "Baswn i’n hoffi",
+            "english": "I would like"
+        },
+        {
+            "welsh": "Baset ti’n hoffi",
+            "english": "You (singular) would like"
+        },
+        {
+            "welsh": "Basai fe’n hoffi",
+            "english": "He would like"
+        },
+        {
+            "welsh": "Basai hi’n hoffi",
+            "english": "She would like"
+        },
+        {
+            "welsh": "Basen ni’n hoffi",
+            "english": "We would like"
+        },
+        {
+            "welsh": "Basech chi’n hoffi",
+            "english": "You (plural) would like"
+        },
+        {
+            "welsh": "Basen nhw’n hoffi",
+            "english": "They would like"
+        },
+        {
+            "welsh": "Basai’n well gyda fi",
+            "english": "I would prefer"
+        },
+        {
+            "welsh": "Fasai dim ots gyda fi",
+            "english": "I wouldn’t mind"
+        }
+    ],
+    "unit3_sentences": [
+        {
+            "welsh": "Baswn i’n hoffi mynd i’r Eidal",
+            "english": "I would like to go to Italy"
+        },
+        {
+            "welsh": "Baswn i’n hoffi dysgu Eidaleg",
+            "english": "I would like to learn Italian"
+        },
+        {
+            "welsh": "Baswn i’n hoffi bwyta pitsa",
+            "english": "I would like to eat pizza"
+        },
+        {
+            "welsh": "Baswn i’n hoffi yfed Prosecco",
+            "english": "I would like to drink Prosecco"
+        },
+        {
+            "welsh": "Faswn i ddim yn lico mynd i’r Sahara",
+            "english": "I wouldn’t like to go to the Sahara"
+        },
+        {
+            "welsh": "Faswn i ddim yn lico dysgu dawnsio bol",
+            "english": "I wouldn’t like to learn to bellydance"
+        },
+        {
+            "welsh": "Faswn i ddim yn lico bwyta malwod",
+            "english": "I wouldn’t like to eat snails"
+        },
+        {
+            "welsh": "Faswn i ddim yn lico yfed coffi du",
+            "english": "I wouldn’t like to drink black coffee"
+        },
+        {
+            "welsh": "Beth yw actores?",
+            "english": "What is an actress?"
+        },
+        {
+            "welsh": "Actores yw person sy’n actio",
+            "english": "An actress is a person who acts"
+        },
+        {
+            "welsh": "Faset ti’n gallu newid olwyn?",
+            "english": "Could you change a wheel?"
+        },
+        {
+            "welsh": "Faset ti’n gallu newid plwg?",
+            "english": "Could you change a plug?"
+        },
+        {
+            "welsh": "Fasech chi’n gallu rhedeg milltir?",
+            "english": "Could you run a mile?"
+        },
+        {
+            "welsh": "Fasech chi’n gallu gwneud teisen briodas?",
+            "english": "Could you make a wedding cake?"
+        }
+    ],
+    "unit4_vocab": [
+        {
+            "welsh": "ardal(oedd)",
+            "english": "area(s)"
+        },
+        {
+            "welsh": "cerddoriaeth",
+            "english": "music"
+        },
+        {
+            "welsh": "cydweithwraig",
+            "english": "female colleague"
+        },
+        {
+            "welsh": "elusen(nau)",
+            "english": "charity (-ies)"
+        },
+        {
+            "welsh": "ffeil(iau)",
+            "english": "file(s)"
+        },
+        {
+            "welsh": "lleuad",
+            "english": "moon"
+        },
+        {
+            "welsh": "trafferth(ion)",
+            "english": "trouble(s)"
+        },
+        {
+            "welsh": "cydweithiwr",
+            "english": "colleague(s)"
+        },
+        {
+            "welsh": "cyfle(oedd)",
+            "english": "chance(s), opportunity (-ies)"
+        },
+        {
+            "welsh": "cynnig (cynigion)",
+            "english": "offer(s)"
+        },
+        {
+            "welsh": "dart(iau)",
+            "english": "dart(s)"
+        },
+        {
+            "welsh": "hamdden",
+            "english": "leisure"
+        },
+        {
+            "welsh": "oedolyn (oedolion)",
+            "english": "adult(s)"
+        },
+        {
+            "welsh": "pwrs (pyrsiau)",
+            "english": "purse(s)"
+        },
+        {
+            "welsh": "pwynt(iau)",
+            "english": "point(s)"
+        },
+        {
+            "welsh": "pwys(au)",
+            "english": "pound(s) (weight)"
+        },
+        {
+            "welsh": "pythefnos",
+            "english": "fortnight"
+        },
+        {
+            "welsh": "twpsyn",
+            "english": "silly person"
+        }
+    ],
+    "unit4_phrases": [
+        {
+            "welsh": "Taswn i’n gallu",
+            "english": "If I could"
+        },
+        {
+            "welsh": "Taset ti’n gallu",
+            "english": "If you (singular) could"
+        },
+        {
+            "welsh": "Tasai fe’n gallu",
+            "english": "If he could"
+        },
+        {
+            "welsh": "Tasai hi’n gallu",
+            "english": "If she could"
+        },
+        {
+            "welsh": "Tasen ni’n gallu",
+            "english": "If we could"
+        },
+        {
+            "welsh": "Tasech chi’n gallu",
+            "english": "If you (plural) could"
+        },
+        {
+            "welsh": "Tasen nhw’n gallu",
+            "english": "If they could"
+        },
+        {
+            "welsh": "Baswn i’n gwneud",
+            "english": "I would do"
+        },
+        {
+            "welsh": "Baswn i’n mynd",
+            "english": "I would go"
+        },
+        {
+            "welsh": "Baswn i’n hoffi",
+            "english": "I would like"
+        }
+    ],
+    "unit4_sentences": [
+        {
+            "welsh": "Baswn i’n hoffi mynd i’r Eidal",
+            "english": "I would like to go to Italy"
+        },
+        {
+            "welsh": "Baswn i’n hoffi dysgu Eidaleg",
+            "english": "I would like to learn Italian"
+        },
+        {
+            "welsh": "Baswn i’n hoffi bwyta pitsa",
+            "english": "I would like to eat pizza"
+        },
+        {
+            "welsh": "Baswn i’n hoffi yfed Prosecco",
+            "english": "I would like to drink Prosecco"
+        },
+        {
+            "welsh": "Faswn i ddim yn lico mynd i’r Sahara",
+            "english": "I wouldn’t like to go to the Sahara"
+        },
+        {
+            "welsh": "Faswn i ddim yn lico dysgu dawnsio bol",
+            "english": "I wouldn’t like to learn to bellydance"
+        },
+        {
+            "welsh": "Faswn i ddim yn lico bwyta malwod",
+            "english": "I wouldn’t like to eat snails"
+        },
+        {
+            "welsh": "Faswn i ddim yn lico yfed coffi du",
+            "english": "I wouldn’t like to drink black coffee"
+        },
+        {
+            "welsh": "Taswn i’n gallu rhedeg marathon",
+            "english": "If I could, I would run a marathon"
+        },
+        {
+            "welsh": "Taswn i’n gallu mynd ar wyliau yfory",
+            "english": "If I could, I would go on holiday tomorrow"
+        },
+        {
+            "welsh": "Taset ti’n gallu gweld opera, fyddet ti’n hoffi?",
+            "english": "If you could see an opera, would you like it?"
+        },
+        {
+            "welsh": "Taset ti’n gallu gweithio mewn ysgol, fyddet ti’n hoffi?",
+            "english": "If you could work in a school, would you like it?"
+        },
+        {
+            "welsh": "Taset ti’n gallu rhedeg marathon, fyddet ti’n hoffi?",
+            "english": "If you could run a marathon, would you like it?"
+        },
+        {
+            "welsh": "Taset ti’n gallu mynd ar wyliau yfory, fyddet ti’n hoffi?",
+            "english": "If you could go on holiday tomorrow, would you like it?"
+        },
+        {
+            "welsh": "Taswn ni’n clywed jôc, basen ni’n chwerthin",
+            "english": "If we heard a joke, we would laugh"
+        },
+        {
+            "welsh": "Taswn ni’n ymddeol, basen ni’n teithio",
+            "english": "If we retired, we would travel"
+        },
+        {
+            "welsh": "Tasech chi’n trio sgio, fasech chi’n cwympo?",
+            "english": "If you tried to ski, would you fall?"
+        },
+        {
+            "welsh": "Tasen nhw’n gweld ffilm drist, fasen nhw ddim yn llefain",
+            "english": "If they saw a sad film, they wouldn’t cry"
+        }
+    ],
+    "unit5_vocab": [
+        {
+            "welsh": "mam",
+            "english": "mother"
+        },
+        {
+            "welsh": "chwaer",
+            "english": "sister"
+        },
+        {
+            "welsh": "merch",
+            "english": "daughter"
+        },
+        {
+            "welsh": "brawd",
+            "english": "brother"
+        },
+        {
+            "welsh": "mab",
+            "english": "son"
+        },
+        {
+            "welsh": "tad",
+            "english": "father"
+        },
+        {
+            "welsh": "cefnder",
+            "english": "male cousin"
+        },
+        {
+            "welsh": "cyfnither",
+            "english": "female cousin"
+        },
+        {
+            "welsh": "nain",
+            "english": "grandmother"
+        },
+        {
+            "welsh": "taid",
+            "english": "grandfather"
+        },
+        {
+            "welsh": "ysgol",
+            "english": "school"
+        },
+        {
+            "welsh": "ysgol gyfun",
+            "english": "comprehensive school"
+        },
+        {
+            "welsh": "prifysgol",
+            "english": "university"
+        },
+        {
+            "welsh": "ysbyty",
+            "english": "hospital"
+        },
+        {
+            "welsh": "ffordd",
+            "english": "way, road"
+        }
+    ],
+    "unit5_phrases": [
+        {
+            "welsh": "Ces i fy ngeni",
+            "english": "I was born"
+        },
+        {
+            "welsh": "Cest ti dy eni",
+            "english": "You (singular) were born"
+        },
+        {
+            "welsh": "Cafodd e ei eni",
+            "english": "He was born"
+        },
+        {
+            "welsh": "Cafodd hi ei geni",
+            "english": "She was born"
+        },
+        {
+            "welsh": "Cawson ni ein geni",
+            "english": "We were born"
+        },
+        {
+            "welsh": "Cawsoch chi eich geni",
+            "english": "You (plural) were born"
+        },
+        {
+            "welsh": "Cawson nhw eu geni",
+            "english": "They were born"
+        },
+        {
+            "welsh": "Dw i wedi",
+            "english": "I have"
+        },
+        {
+            "welsh": "Ro’n i’n",
+            "english": "I was"
+        },
+        {
+            "welsh": "Mae gen i",
+            "english": "I have"
+        }
+    ],
+    "unit5_sentences": [
+        {
+            "welsh": "Ces i fy ngeni yng Nghaerdydd",
+            "english": "I was born in Cardiff"
+        },
+        {
+            "welsh": "Cest ti dy eni yng Nghaerdydd",
+            "english": "You were born in Cardiff"
+        },
+        {
+            "welsh": "Cafodd e ei eni yn Aberystwyth",
+            "english": "He was born in Aberystwyth"
+        },
+        {
+            "welsh": "Cafodd hi ei geni yn Wrecsam",
+            "english": "She was born in Wrexham"
+        },
+        {
+            "welsh": "Cawson ni ein geni yn Llanelli",
+            "english": "We were born in Llanelli"
+        },
+        {
+            "welsh": "Cawsoch chi eich geni yn Rhyl",
+            "english": "You were born in Rhyl"
+        },
+        {
+            "welsh": "Cawson nhw eu geni yn Aberdâr",
+            "english": "They were born in Aberdare"
+        },
+        {
+            "welsh": "Dw i wedi cael dau o blant",
+            "english": "I have had two children"
+        },
+        {
+            "welsh": "Ro’n i’n gweithio mewn ysbyty",
+            "english": "I was working in a hospital"
+        },
+        {
+            "welsh": "Mae gen i dri o blant",
+            "english": "I have three children"
+        }
+    ],
+    "mutations": [
+        {
+            "welsh": "ar y fwrdd",
+            "english": "on the table",
+            "explanation": "The preposition 'ar' causes a soft mutation, changing 'bwrdd' to 'fwrdd'."
+        },
+        {
+            "welsh": "i'r tŷ",
+            "english": "to the house",
+            "explanation": "The preposition 'i' contracts with 'y' to form 'i'r' and does not cause a mutation."
+        },
+        {
+            "welsh": "gyda'r mab",
+            "english": "with the son",
+            "explanation": "The preposition 'gyda' contracts with 'y' to form 'gyda'r' and does not cause a mutation."
+        },
+        {
+            "welsh": "am y gar",
+            "english": "about the car",
+            "explanation": "The preposition 'am' causes a soft mutation, changing 'car' to 'gar'."
+        },
+        {
+            "welsh": "at yr ysgol",
+            "english": "to the school",
+            "explanation": "The preposition 'at' does not cause a mutation."
+        },
+        {
+            "welsh": "dan y ddŵr",
+            "english": "under the water",
+            "explanation": "The preposition 'dan' causes a soft mutation, changing 'dŵr' to 'ddŵr'."
+        },
+        {
+            "welsh": "heb y llyfr",
+            "english": "without the book",
+            "explanation": "The preposition 'heb' does not cause a mutation."
+        },
+        {
+            "welsh": "tros y waith",
+            "english": "over the work",
+            "explanation": "The preposition 'tros' causes a soft mutation, changing 'gwaith' to 'waith'."
+        },
+        {
+            "welsh": "wrth y ffrind",
+            "english": "by the friend",
+            "explanation": "The preposition 'wrth' does not cause a mutation."
+        },
+        {
+            "welsh": "yn yr ysgol",
+            "english": "in the school",
+            "explanation": "The preposition 'yn' does not cause a mutation."
+        },
+        {
+            "welsh": "o'r bentref",
+            "english": "from the village",
+            "explanation": "The preposition 'o' contracts with 'y' to form 'o'r' and causes a soft mutation, changing 'pentref' to 'bentref'."
+        },
+        {
+            "welsh": "ar y ferched",
+            "english": "on the girls",
+            "explanation": "The preposition 'ar' causes a soft mutation, changing 'merched' to 'ferched'."
+        },
+        {
+            "welsh": "am y blentyn",
+            "english": "about the child",
+            "explanation": "The preposition 'am' causes a soft mutation, changing 'plentyn' to 'blentyn'."
+        },
+        {
+            "welsh": "i'r pen",
+            "english": "to the head",
+            "explanation": "The preposition 'i' contracts with 'y' to form 'i'r' and does not cause a mutation."
+        },
+        {
+            "welsh": "yn y tŷ",
+            "english": "in the house",
+            "explanation": "The preposition 'yn' does not cause a mutation."
+        },
+        {
+            "welsh": "o'r ŵn",
+            "english": "from the dogs",
+            "explanation": "The preposition 'o' contracts with 'y' to form 'o'r' and causes a soft mutation, changing 'gŵn' to 'ŵn'."
+        },
+        {
+            "welsh": "gyda'r ffrind",
+            "english": "with the friend",
+            "explanation": "The preposition 'gyda' contracts with 'y' to form 'gyda'r' and does not cause a mutation."
+        },
+        {
+            "welsh": "heb y ddŵr",
+            "english": "without the water",
+            "explanation": "The preposition 'heb' does not usually cause a mutation, but in this context, 'ddŵr' retains the soft mutation because of a preceding word or context."
+        },
+        {
+            "welsh": "tros y gath",
+            "english": "over the cat",
+            "explanation": "The preposition 'tros' causes a soft mutation, changing 'cath' to 'gath'."
+        },
+        {
+            "welsh": "ei dŷ",
+            "english": "his house",
+            "explanation": "The possessive pronoun 'ei' (his) causes a soft mutation, changing 'tŷ' to 'dy'."
+        },
+        {
+            "welsh": "ei gar",
+            "english": "his car",
+            "explanation": "The possessive pronoun 'ei' (his) causes a soft mutation, changing 'car' to 'gar'."
+        },
+        {
+            "welsh": "ei ben",
+            "english": "his head",
+            "explanation": "The possessive pronoun 'ei' (his) causes a soft mutation, changing 'pen' to 'ben'."
+        },
+        {
+            "welsh": "ei chath",
+            "english": "her cat",
+            "explanation": "The possessive pronoun 'ei' (her) causes an aspirate mutation, changing 'cath' to 'chath'."
+        },
+        {
+            "welsh": "ei thŷ",
+            "english": "her house",
+            "explanation": "The possessive pronoun 'ei' (her) causes an aspirate mutation, changing 'tŷ' to 'thŷ'."
+        },
+        {
+            "welsh": "ei phen",
+            "english": "her head",
+            "explanation": "The possessive pronoun 'ei' (her) causes an aspirate mutation, changing 'pen' to 'phen'."
+        },
+        {
+            "welsh": "ei char",
+            "english": "her car",
+            "explanation": "The possessive pronoun 'ei' (her) causes an aspirate mutation, changing 'car' to 'char'."
+        },
+        {
+            "welsh": "fy nghar",
+            "english": "my car",
+            "explanation": "The possessive pronoun 'fy' causes a nasal mutation, changing 'car' to 'nghar'."
+        },
+        {
+            "welsh": "fy mhen",
+            "english": "my head",
+            "explanation": "The possessive pronoun 'fy' causes a nasal mutation, changing 'pen' to 'mhen'."
+        },
+        {
+            "welsh": "fy nhŷ",
+            "english": "my house",
+            "explanation": "The possessive pronoun 'fy' causes a nasal mutation, changing 'tŷ' to 'nhŷ'."
+        },
+        {
+            "welsh": "fy nghath",
+            "english": "my cat",
+            "explanation": "The possessive pronoun 'fy' causes a nasal mutation, changing 'cath' to 'nghath'."
+        },
+        {
+            "welsh": "ein car",
+            "english": "our car",
+            "explanation": "The possessive pronoun 'ein' does not cause a mutation."
+        },
+        {
+            "welsh": "ein pen",
+            "english": "our head",
+            "explanation": "The possessive pronoun 'ein' does not cause a mutation."
+        },
+        {
+            "welsh": "ein tŷ",
+            "english": "our house",
+            "explanation": "The possessive pronoun 'ein' does not cause a mutation."
+        },
+        {
+            "welsh": "ein cath",
+            "english": "our cat",
+            "explanation": "The possessive pronoun 'ein' does not cause a mutation."
+        },
+        {
+            "welsh": "ar y gath",
+            "english": "on the cat",
+            "explanation": "The preposition 'ar' does not cause a mutation."
+        },
+        {
+            "welsh": "i'r ysgol",
+            "english": "to the school",
+            "explanation": "The preposition 'i' contracts with 'y' to form 'i'r' and does not cause a mutation."
+        },
+        {
+            "welsh": "o'r dref",
+            "english": "from the town",
+            "explanation": "The preposition 'o' contracts with 'y' to form 'o'r' and does not cause a mutation."
+        },
+        {
+            "welsh": "ar y plant",
+            "english": "on the children",
+            "explanation": "The preposition 'ar' does not cause a mutation."
+        },
+        {
+            "welsh": "am y gŵr",
+            "english": "about the husband",
+            "explanation": "The preposition 'am' does not cause a mutation."
+        },
+        {
+            "welsh": "i'r dref",
+            "english": "to the town",
+            "explanation": "The preposition 'i' contracts with 'y' to form 'i'r' and does not cause a mutation."
+        },
+        {
+            "welsh": "yn y gwaith",
+            "english": "in the work",
+            "explanation": "The preposition 'yn' does not cause a mutation."
+        },
+        {
+            "welsh": "o'r ysgol",
+            "english": "from the school",
+            "explanation": "The preposition 'o' contracts with 'y' to form 'o'r' and does not cause a mutation."
+        },
+        {
+            "welsh": "gyda'r ŵr",
+            "english": "with the man",
+            "explanation": "The preposition 'gyda' causes a soft mutation, changing 'gŵr' to 'ŵr'."
+        },
+        {
+            "welsh": "ar y fferm",
+            "english": "on the farm",
+            "explanation": "The preposition 'ar' does not cause a mutation."
+        },
+        {
+            "welsh": "am y fachgen",
+            "english": "about the boy",
+            "explanation": "The preposition 'am' causes a soft mutation, changing 'bachgen' to 'fachgen'."
+        },
+        {
+            "welsh": "o'r bentref",
+            "english": "from the village",
+            "explanation": "The preposition 'o' contracts with 'y' to form 'o'r' and causes a soft mutation, changing 'pentref' to 'bentref'."
+        },
+        {
+            "welsh": "fy mam",
+            "english": "my mother",
+            "explanation": "The possessive pronoun 'fy' does not cause a mutation."
+        },
+        {
+            "welsh": "fy nhad",
+            "english": "my father",
+            "explanation": "The possessive pronoun 'fy' causes a nasal mutation, changing 'tad' to 'nhad'."
+        },
+        {
+            "welsh": "ei frawd",
+            "english": "his brother",
+            "explanation": "The possessive pronoun 'ei' (his) causes a soft mutation, changing 'brawd' to 'frawd'."
+        },
+        {
+            "welsh": "dy frawd",
+            "english": "your brother",
+            "explanation": "The possessive pronoun 'dy' causes a soft mutation, changing 'brawd' to 'frawd'."
+        },
+        {
+            "welsh": "dy chwaer",
+            "english": "your sister",
+            "explanation": "The possessive pronoun 'dy' causes a soft mutation, changing 'chwaer' to 'chwaer'."
+        },
+        {
+            "welsh": "ein teulu",
+            "english": "our family",
+            "explanation": "The possessive pronoun 'ein' does not cause a mutation."
+        },
+        {
+            "welsh": "eich plant",
+            "english": "your children",
+            "explanation": "The possessive pronoun 'eich' does not cause a mutation."
+        },
+        {
+            "welsh": "eu rhieni",
+            "english": "their parents",
+            "explanation": "The possessive pronoun 'eu' does not cause a mutation."
+        },
+        {
+            "welsh": "fy mhlant",
+            "english": "my children",
+            "explanation": "The possessive pronoun 'fy' causes a nasal mutation, changing 'plant' to 'mhlant'."
+        },
+        {
+            "welsh": "ei chariad",
+            "english": "her boyfriend",
+            "explanation": "The possessive pronoun 'ei' (her) causes an aspirate mutation, changing 'cariad' to 'chariad'."
+        },
+        {
+            "welsh": "fy nghariad",
+            "english": "my love/boyfriend/girlfriend",
+            "explanation": "The possessive pronoun 'fy' causes a nasal mutation, changing 'cariad' to 'nghariad'."
+        },
+        {
+            "welsh": "dy gariad",
+            "english": "your love/boyfriend/girlfriend",
+            "explanation": "The possessive pronoun 'dy' causes a soft mutation, changing 'cariad' to 'gariad'."
+        },
+        {
+            "welsh": "ei gariad",
+            "english": "his love/boyfriend/girlfriend",
+            "explanation": "The possessive pronoun 'ei' (his) causes a soft mutation, changing 'cariad' to 'gariad'."
+        },
+        {
+            "welsh": "ein rhieni",
+            "english": "our parents",
+            "explanation": "The possessive pronoun 'ein' does not cause a mutation."
+        },
+        {
+            "welsh": "eich teulu",
+            "english": "your (plural) family",
+            "explanation": "The possessive pronoun 'eich' does not cause a mutation."
+        },
+        {
+            "welsh": "yn y dre",
+            "english": "in the town",
+            "explanation": "The preposition 'yn' does not cause a mutation."
+        },
+        {
+            "welsh": "i'r ŵyl",
+            "english": "to the festival",
+            "explanation": "The preposition 'i' contracts with 'y' to form 'i'r' and does not cause a mutation."
+        },
+        {
+            "welsh": "o'r wlad",
+            "english": "from the country",
+            "explanation": "The preposition 'o' contracts with 'y' to form 'o'r' and does not cause a mutation."
+        },
+        {
+            "welsh": "gyda'r gi",
+            "english": "with the dog",
+            "explanation": "The preposition 'gyda' contracts with 'y' to form 'gyda'r' and causes a soft mutation, changing 'ci' to 'gi'."
+        },
+        {
+            "welsh": "ar y môr",
+            "english": "on the sea",
+            "explanation": "The preposition 'ar' does not cause a mutation."
+        },
+        {
+            "welsh": "i'r ardal",
+            "english": "to the area",
+            "explanation": "The preposition 'i' contracts with 'y' to form 'i'r' and does not cause a mutation."
+        },
+        {
+            "welsh": "yn y westy",
+            "english": "in the hotel",
+            "explanation": "The preposition 'yn' does not cause a mutation."
+        },
+        {
+            "welsh": "ar y draeth",
+            "english": "on the beach",
+            "explanation": "The preposition 'ar' causes a soft mutation, changing 'traeth' to 'draeth'."
+        },
+        {
+            "welsh": "i'r wersyll",
+            "english": "to the campsite",
+            "explanation": "The preposition 'i' contracts with 'y' to form 'i'r' and causes a soft mutation, changing 'gwersyll' to 'wersyll'."
+        },
+        {
+            "welsh": "yn y parc",
+            "english": "in the park",
+            "explanation": "The preposition 'yn' does not cause a mutation."
+        },
+        {
+            "welsh": "o'r wyliau",
+            "english": "from the holidays",
+            "explanation": "The preposition 'o' contracts with 'y' to form 'o'r' and causes a soft mutation, changing 'gwyliau' to 'wyliau'."
+        },
+        {
+            "welsh": "gyda'r blant",
+            "english": "with the children",
+            "explanation": "The preposition 'gyda' contracts with 'y' to form 'gyda'r' and causes a soft mutation, changing 'plant' to 'blant'."
+        },
+        {
+            "welsh": "yn y siop",
+            "english": "in the shop",
+            "explanation": "The preposition 'yn' does not cause a mutation."
+        },
+        {
+            "welsh": "i'r farchnad",
+            "english": "to the market",
+            "explanation": "The preposition 'i' contracts with 'y' to form 'i'r' and causes a soft mutation, changing 'marchnad' to 'farchnad'."
+        },
+        {
+            "welsh": "o'r farchnad",
+            "english": "from the market",
+            "explanation": "The preposition 'o' contracts with 'y' to form 'o'r' and causes a soft mutation, changing 'marchnad' to 'farchnad'."
+        },
+        {
+            "welsh": "am y bris",
+            "english": "about the price",
+            "explanation": "The preposition 'am' causes a soft mutation, changing 'pris' to 'bris'."
+        },
+        {
+            "welsh": "yn y swyddfa",
+            "english": "in the office",
+            "explanation": "The preposition 'yn' does not cause a mutation."
+        },
+        {
+            "welsh": "i'r gwaith",
+            "english": "to work",
+            "explanation": "The preposition 'i' contracts with 'y' to form 'i'r' and does not cause a mutation."
+        },
+        {
+            "welsh": "o'r gwaith",
+            "english": "from work",
+            "explanation": "The preposition 'o' contracts with 'y' to form 'o'r' and does not cause a mutation."
+        },
+        {
+            "welsh": "gyda'r athro",
+            "english": "with the teacher",
+            "explanation": "The preposition 'gyda' contracts with 'y' to form 'gyda'r' and does not cause a mutation."
+        },
+        {
+            "welsh": "i'r gyfarfod",
+            "english": "to the meeting",
+            "explanation": "The preposition 'i' contracts with 'y' to form 'i'r' and causes a soft mutation, changing 'cyfarfod' to 'gyfarfod'."
+        },
+        {
+            "welsh": "gyda'r dîm",
+            "english": "with the team",
+            "explanation": "The preposition 'gyda' contracts with 'y' to form 'gyda'r' and causes a soft mutation, changing 'tîm' to 'dîm'."
+        },
+        {
+            "welsh": "i'r teledu",
+            "english": "to the television",
+            "explanation": "The preposition 'i' contracts with 'y' to form 'i'r' and causes a soft mutation, changing 'teledu' to 'deledu'."
+        },
+        {
+            "welsh": "o'r radio",
+            "english": "from the radio",
+            "explanation": "The preposition 'o' contracts with 'y' to form 'o'r' and does not cause a mutation."
+        },
+        {
+            "welsh": "i'r campfa",
+            "english": "to the gym",
+            "explanation": "The preposition 'i' contracts with 'y' to form 'i'r' and causes a soft mutation, changing 'campfa' to 'gampfa'."
+        },
+        {
+            "welsh": "o'r glybiau",
+            "english": "from the clubs",
+            "explanation": "The preposition 'o' contracts with 'y' to form 'o'r' and causes a soft mutation, changing 'clybiau' to 'glybiau'."
+        },
+        {
+            "welsh": "am y weithgaredd",
+            "english": "about the activity",
+            "explanation": "The preposition 'am' causes a soft mutation, changing 'gweithgaredd' to 'weithgaredd'."
+        },
+        {
+            "welsh": "yn y glwb chwaraeon",
+            "english": "in the sports club",
+            "explanation": "The preposition 'yn' does not cause a mutation."
+        },
+        {
+            "welsh": "ei lyfr",
+            "english": "his book",
+            "explanation": "The possessive pronoun 'ei' (his) does not cause a mutation."
+        },
+        {
+            "welsh": "ei hanes",
+            "english": "his story",
+            "explanation": "The possessive pronoun 'ei' (his) does not cause a mutation."
+        },
+        {
+            "welsh": "ei ffrind",
+            "english": "his friend",
+            "explanation": "The possessive pronoun 'ei' (his) does not cause a mutation."
+        },
+        {
+            "welsh": "ein gêm",
+            "english": "our game",
+            "explanation": "The possessive pronoun 'ein' does not cause a mutation."
+        },
+        {
+            "welsh": "eich gwaith",
+            "english": "your work",
+            "explanation": "The possessive pronoun 'eich' does not cause a mutation."
+        },
+        {
+            "welsh": "ei ardal",
+            "english": "his area",
+            "explanation": "The possessive pronoun 'ei' (his) does not cause a mutation."
+        },
+        {
+            "welsh": "ei tref",
+            "english": "his town",
+            "explanation": "The possessive pronoun 'ei' (his) does not cause a mutation."
+        },
+        {
+            "welsh": "eich swydd",
+            "english": "your job",
+            "explanation": "The possessive pronoun 'eich' does not cause a mutation."
+        }
+    ]
+}
+
+
