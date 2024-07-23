@@ -1,10 +1,12 @@
-function loadFlashcards() {
-    fetch('../data/flashcardsData.json')
+function loadFlashcards(type) {
+    const file = type === 'units' ? '../data/flashcardsData.json' : '../data/mutations.json';
+    fetch(file)
         .then(response => response.json())
         .then(data => {
             const container = document.getElementById('flashcards-container');
             container.innerHTML = '';
-            data.unit1_vocab.forEach(card => {
+            const cards = type === 'units' ? data.unit1_vocab : data.mutations;
+            cards.forEach(card => {
                 const cardElement = document.createElement('div');
                 cardElement.classList.add('flashcard');
                 cardElement.innerHTML = `
@@ -14,6 +16,7 @@ function loadFlashcards() {
                     </div>
                     <div class="flashcard-content">
                         <p>${card.english}</p>
+                        ${type === 'mutations' ? `<button onclick="explain('${card.explanation}')">Explain</button>` : ''}
                     </div>
                 `;
                 container.appendChild(cardElement);
@@ -38,4 +41,8 @@ function playAudio(text) {
             audio.play();
         }
     });
+}
+
+function explain(explanation) {
+    alert(explanation);
 }
