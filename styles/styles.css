@@ -1,0 +1,50 @@
+/* Custom Styles */
+
+/* Colors */
+.bg-navy {
+    background-color: #001542;
+}
+.text-navy {
+    color: #001542;
+}
+.bg-teal {
+    background-color: #085454;
+}
+.text-teal {
+    color: #085454;
+}
+.bg-yellow {
+    background-color: #FFB30D;
+}
+.text-yellow {
+    color: #FFB30D;
+}
+.text-white {
+    color: #FFFFFF;
+}
+.text-gray-900 {
+    color: #1a202c;
+}
+.bg-white {
+    background-color: #FFFFFF;
+}
+
+/* Navbar */
+.navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.navbar a {
+    transition: background-color 0.3s;
+}
+.navbar a:hover {
+    background-color: #FFB30D;
+    color: #001542;
+}
+
+/* Buttons */
+button {
+    transition: background-color 0.3s, transform 0.3s;
+}
+button:hover {
+    transform: scale(1.05);
+}
