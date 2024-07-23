@@ -3,31 +3,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flashcards - Welsh Language Learning App</title>
+    <title>Welsh Language Learning App</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../css/styles.css">
-    <script src="../js/flashcards.js" defer></script>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/index.js" defer></script>
 </head>
 <body>
     <header>
-        <nav>
-            <img src="../images/logo.png" alt="Logo" id="logo">
-            <ul>
-                <li><button id="toggle-lang">Cymraeg</button></li>
-            </ul>
-        </nav>
+        <div w3-include-html="components/navbar.html"></div>
     </header>
     <main>
         <section>
-            <h1>Flashcards</h1>
-            <div>
-                <button onclick="loadFlashcards()">Load Flashcards</button>
-            </div>
-            <div id="flashcards-container"></div>
+            <h1>Welcome to the Welsh Language Learning App</h1>
+            <button onclick="location.href='pages/flashcards.html'">Flashcards</button>
+            <button onclick="location.href='pages/units/unit1.html'">Unit 1</button>
+            <button onclick="location.href='pages/units/unit2.html'">Unit 2</button>
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Welsh Language Learning App</p>
+        <div w3-include-html="components/footer.html"></div>
     </footer>
+    <script>
+        function includeHTML() {
+            var z, i, elmnt, file, xhttp;
+            z = document.getElementsByTagName("*");
+            for (i = 0; i < z.length; i++) {
+                elmnt = z[i];
+                file = elmnt.getAttribute("w3-include-html");
+                if (file) {
+                    xhttp = new XMLHttpRequest();
+                    xhttp.onreadystatechange = function() {
+                        if (this.readyState == 4) {
+                            if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+                            if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+                            elmnt.removeAttribute("w3-include-html");
+                            includeHTML();
+                        }
+                    }      
+                    xhttp.open("GET", file, true);
+                    xhttp.send();
+                    return;
+                }
+            }
+        }
+        includeHTML();
+    </script>
 </body>
 </html>
