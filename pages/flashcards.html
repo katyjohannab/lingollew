@@ -3,25 +3,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welsh Language Learning App</title>
+    <title>Flashcards - Welsh Language Learning App</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/styles.css">
-    <script src="js/index.js" defer></script>
+    <link rel="stylesheet" href="../css/styles.css">
+    <script src="../js/flashcards.js" defer></script>
 </head>
 <body>
     <header>
-        <div w3-include-html="components/navbar.html"></div>
+        <div w3-include-html="../components/navbar.html"></div>
     </header>
     <main>
         <section>
-            <h1>Welcome to the Welsh Language Learning App</h1>
-            <button onclick="location.href='pages/flashcards.html'">Flashcards</button>
-            <button onclick="location.href='pages/units/unit1.html'">Unit 1</button>
-            <button onclick="location.href='pages/units/unit2.html'">Unit 2</button>
+            <h1>Flashcards</h1>
+            <div class="menu">
+                <label>
+                    <input type="radio" name="flashcardType" value="units" checked>
+                    Units and Categories
+                </label>
+                <label>
+                    <input type="radio" name="flashcardType" value="mutations">
+                    Mutations Only
+                </label>
+                <div id="unit-options">
+                    <h3>Select Units:</h3>
+                    <label><input type="checkbox" value="unit1"> Unit 1</label>
+                    <label><input type="checkbox" value="unit2"> Unit 2</label>
+                    <label><input type="checkbox" value="unit3"> Unit 3</label>
+                    <label><input type="checkbox" value="unit4"> Unit 4</label>
+                    <label><input type="checkbox" value="unit5"> Unit 5</label>
+                </div>
+                <div id="category-options">
+                    <h3>Select Categories:</h3>
+                    <label><input type="checkbox" value="vocab"> Key Vocabulary</label>
+                    <label><input type="checkbox" value="phrases"> Phrases</label>
+                    <label><input type="checkbox" value="sentences"> Sentences</label>
+                </div>
+                <button onclick="loadFlashcards()">Load Flashcards</button>
+                <button onclick="shuffleFlashcards()">Shuffle</button>
+                <button onclick="restartFlashcards()">Restart</button>
+            </div>
+            <div id="flashcards-container"></div>
         </section>
     </main>
     <footer>
-        <div w3-include-html="components/footer.html"></div>
+        <div w3-include-html="../components/footer.html"></div>
     </footer>
     <script>
         function includeHTML() {
@@ -50,3 +75,4 @@
     </script>
 </body>
 </html>
+
