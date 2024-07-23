@@ -5,47 +5,66 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Flashcards - Welsh Language Learning App</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/tailwind.css">
     <link rel="stylesheet" href="../css/styles.css">
     <script src="../js/flashcards.js" defer></script>
 </head>
-<body>
-    <header>
+<body class="bg-gray-100 text-navy font-poppins">
+    <header class="bg-navy text-white p-4 sticky top-0 flex justify-between items-center">
         <div w3-include-html="../components/navbar.html"></div>
     </header>
-    <main>
-        <section>
-            <h1>Flashcards</h1>
-            <div class="menu">
-                <label>
-                    <input type="radio" name="flashcardType" value="units" checked>
-                    Units and Categories
-                </label>
-                <label>
-                    <input type="radio" name="flashcardType" value="mutations">
-                    Mutations Only
-                </label>
-                <div id="unit-options">
-                    <h3>Select Units:</h3>
-                    <label><input type="checkbox" value="unit1"> Unit 1</label>
-                    <label><input type="checkbox" value="unit2"> Unit 2</label>
-                    <label><input type="checkbox" value="unit3"> Unit 3</label>
-                    <label><input type="checkbox" value="unit4"> Unit 4</label>
-                    <label><input type="checkbox" value="unit5"> Unit 5</label>
+    <main class="container mx-auto p-4">
+        <section class="bg-white shadow-md rounded p-6">
+            <h1 class="text-2xl font-semibold mb-4">Flashcards</h1>
+            <div class="menu mb-4">
+                <div class="mb-4">
+                    <label class="mr-4">
+                        <input type="radio" name="flashcardType" value="units" class="mr-2"> Units and Categories
+                    </label>
+                    <label>
+                        <input type="radio" name="flashcardType" value="mutations" class="mr-2"> Mutations Only
+                    </label>
                 </div>
-                <div id="category-options">
-                    <h3>Select Categories:</h3>
-                    <label><input type="checkbox" value="vocab"> Key Vocabulary</label>
-                    <label><input type="checkbox" value="phrases"> Phrases</label>
-                    <label><input type="checkbox" value="sentences"> Sentences</label>
+                <div id="unit-options" class="mb-4">
+                    <h3 class="text-lg font-semibold">Select Units:</h3>
+                    <label class="block">
+                        <input type="checkbox" value="unit1" class="mr-2"> Unit 1
+                    </label>
+                    <label class="block">
+                        <input type="checkbox" value="unit2" class="mr-2"> Unit 2
+                    </label>
+                    <label class="block">
+                        <input type="checkbox" value="unit3" class="mr-2"> Unit 3
+                    </label>
+                    <label class="block">
+                        <input type="checkbox" value="unit4" class="mr-2"> Unit 4
+                    </label>
+                    <label class="block">
+                        <input type="checkbox" value="unit5" class="mr-2"> Unit 5
+                    </label>
                 </div>
-                <button onclick="loadFlashcards()">Load Flashcards</button>
-                <button onclick="shuffleFlashcards()">Shuffle</button>
-                <button onclick="restartFlashcards()">Restart</button>
+                <div id="category-options" class="mb-4">
+                    <h3 class="text-lg font-semibold">Select Categories:</h3>
+                    <label class="block">
+                        <input type="checkbox" value="vocab" class="mr-2"> Key Vocabulary
+                    </label>
+                    <label class="block">
+                        <input type="checkbox" value="phrases" class="mr-2"> Phrases
+                    </label>
+                    <label class="block">
+                        <input type="checkbox" value="sentences" class="mr-2"> Sentences
+                    </label>
+                </div>
+                <div class="flex space-x-2">
+                    <button onclick="loadFlashcards()" class="bg-blue hover:bg-blue-hover text-white font-semibold py-2 px-4 rounded">Load Flashcards</button>
+                    <button onclick="shuffleFlashcards()" class="bg-yellow hover:bg-yellow-hover text-navy font-semibold py-2 px-4 rounded">Shuffle</button>
+                    <button onclick="restartFlashcards()" class="bg-dark-green hover:bg-teal-hover text-white font-semibold py-2 px-4 rounded">Restart</button>
+                </div>
             </div>
-            <div id="flashcards-container"></div>
+            <div id="flashcards-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
         </section>
     </main>
-    <footer>
+    <footer class="bg-navy text-white p-4 text-center">
         <div w3-include-html="../components/footer.html"></div>
     </footer>
     <script>
@@ -75,4 +94,5 @@
     </script>
 </body>
 </html>
+
 
